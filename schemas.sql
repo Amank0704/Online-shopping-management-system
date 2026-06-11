@@ -1,4 +1,3 @@
--- Active: 1781147267056@@localhost@3306@shoppingdb
 USE ShoppingDB;
 
 -- CUSTOMER TABLE
